@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Editor / tooling
+.claude/
+.vscode/
+.idea/
+
+# Temp Office lock files
+~$*
+
+# Source (not-for-web) assets — optimized versions live in images/
+Дипломы Олег/
+
+# Logs
+*.log
